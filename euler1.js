@@ -1,6 +1,3 @@
-// this is a comment to myself.
-
-
 // Find the sum of all natural numbers below 1000, that are multiples of 3 or 5
 
 // Find the primes from 1 to 10
@@ -32,12 +29,4 @@ for (i=1; i < 1000; i++) {
     sum = sum + i;
     console.log(sum)  // sum of i printed
     }
-}
-
-
-
-
-// if you can do a modulo of a number, then print that number
-if () {
-  console.log
 }
